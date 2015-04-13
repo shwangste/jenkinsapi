@@ -5,7 +5,7 @@ Module for jenkinsapi Executer class
 from jenkinsapi.jenkinsbase import JenkinsBase
 import logging
 
-log = logging.getLogger(__name__)
+# log = logging.getLogger(__name__)
 
 
 class Executor(JenkinsBase):
